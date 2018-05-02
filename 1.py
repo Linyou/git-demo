@@ -3,7 +3,5 @@ a = 1
 # I was changed in dev2 branch
 # keep info
 
-# edited in master
-# edited in dev2
+# edited in master and dev2
 
-# add again
